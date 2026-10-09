@@ -1,0 +1,30 @@
+# Secrets & environment
+.env
+.env.*
+*.env
+
+# Dependencies
+node_modules/
+packages/
+vendor/
+
+# Build artifacts
+dist/
+build/
+bin/
+*.exe
+*.dll
+*.so
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs & temp
+*.log
+scratch/
+tmp/
